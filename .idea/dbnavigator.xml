@@ -82,12 +82,7 @@
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="58d9b617-2be6-42e5-97dd-75c70b914fdd" object-ref="schemas/bookstore/tables/chapter" />
-      <object connection-id="58d9b617-2be6-42e5-97dd-75c70b914fdd" object-ref="schemas/bookstore/tables/publisher" />
-      <object connection-id="58d9b617-2be6-42e5-97dd-75c70b914fdd" object-ref="schemas/bookstore/tables/book" />
-      <object connection-id="58d9b617-2be6-42e5-97dd-75c70b914fdd" object-ref="consoles/bookstore" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="d8da02da-4d08-42cf-8eff-f95d8d1af8ce" />
