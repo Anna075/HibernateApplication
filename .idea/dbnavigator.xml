@@ -107,7 +107,7 @@
     <retain-sticky-names value="false" />
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
-    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/bookstore.sql" connection-id="virtual-sqlite-connection" session-id="" current-schema="" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/bookstore.sql" connection-id="58d9b617-2be6-42e5-97dd-75c70b914fdd" session-id="MAIN" current-schema="bookstore" />
   </component>
   <component name="DBNavigator.Project.MethodExecutionManager">
     <method-browser />
